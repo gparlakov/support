@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlJsonConverter", "ConsoleApplication1\XmlJsonConverter.csproj", "{2184F1D2-8632-4602-AFB7-AFF0CBF6C35F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonXmlConvert", "JsonXMLConverter\JsonXmlConvert.csproj", "{2184F1D2-8632-4602-AFB7-AFF0CBF6C35F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
